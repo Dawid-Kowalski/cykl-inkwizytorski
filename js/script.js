@@ -21,7 +21,7 @@ const element = React.createElement("div", {},
 					React.createElement("td", {}, "okładka")
 				)
 			),
-			React.createElement("tbody", {}, rows)
+			React.createElement("tbody", {key: books.id}, rows)
 		)
 	);
 
