@@ -5,7 +5,9 @@ let rows = books.map(function(book){
 				React.createElement("td", {}, book.date),
 				React.createElement("td", {}, book.title),
 				React.createElement("td", {}, book.storys),
-				React.createElement("td", {}, book.img)
+				React.createElement("td", {}, 
+					React.createElement("img", {src: book.img})
+				)
 			)
 })
 
