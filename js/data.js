@@ -1,0 +1,2 @@
+const bookDescription = 
+					"cykl opowiadań Jacka Piekary o przygodach inkwizytora Mordimera Madderdina wydanych przez Fabrykę Słów, osadzony w alternatywnej wersji naszego świata, w którym Jezus Chrystus zstąpił z krzyża, ukarał swoich prześladowców i tych, którzy w niego nie uwierzyli."
